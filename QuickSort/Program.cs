@@ -9,10 +9,10 @@ namespace QuickSort
         {
             int[] input = {7, 2, 6, 3, 5, 4, 1 };
             quickSort(input, 0, input.Length - 1);
-            NewMethod(input);
+            PrintArray(input);
         }
 
-        private static string NewMethod(int[] input)
+        private static string PrintArray(int[] input)
         {
             string res = string.Empty;
 
