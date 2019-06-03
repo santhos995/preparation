@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practise", "Practise\Practise.csproj", "{ABB1F9B4-C343-4EDB-B72D-01BF0466AE80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{139DAFBF-AAE9-430C-B967-B18DD61F53DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB1F9B4-C343-4EDB-B72D-01BF0466AE80}.Debug|x86.ActiveCfg = Debug|x86
+		{ABB1F9B4-C343-4EDB-B72D-01BF0466AE80}.Debug|x86.Build.0 = Debug|x86
+		{ABB1F9B4-C343-4EDB-B72D-01BF0466AE80}.Release|x86.ActiveCfg = Release|x86
+		{ABB1F9B4-C343-4EDB-B72D-01BF0466AE80}.Release|x86.Build.0 = Release|x86
+		{139DAFBF-AAE9-430C-B967-B18DD61F53DF}.Debug|x86.ActiveCfg = Debug|x86
+		{139DAFBF-AAE9-430C-B967-B18DD61F53DF}.Debug|x86.Build.0 = Debug|x86
+		{139DAFBF-AAE9-430C-B967-B18DD61F53DF}.Release|x86.ActiveCfg = Release|x86
+		{139DAFBF-AAE9-430C-B967-B18DD61F53DF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

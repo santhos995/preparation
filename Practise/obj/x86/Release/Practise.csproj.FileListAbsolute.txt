@@ -1,0 +1,3 @@
+/home/san/Projects/Sample/Practise/bin/Release/Practise.exe
+/home/san/Projects/Sample/Practise/obj/x86/Release/Practise.csproj.CoreCompileInputs.cache
+/home/san/Projects/Sample/Practise/obj/x86/Release/Practise.exe

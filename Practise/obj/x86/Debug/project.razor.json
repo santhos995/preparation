@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/san/Projects/Sample/Practise/Practise.csproj",
+  "TargetFramework": "v4.7",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

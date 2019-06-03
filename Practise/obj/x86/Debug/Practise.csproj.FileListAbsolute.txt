@@ -1,0 +1,6 @@
+/home/san/Projects/Sample/Practise/bin/Debug/Practise.exe
+/home/san/Projects/Sample/Practise/bin/Debug/Practise.pdb
+/home/san/Projects/Sample/Practise/obj/x86/Debug/Practise.csprojAssemblyReference.cache
+/home/san/Projects/Sample/Practise/obj/x86/Debug/Practise.csproj.CoreCompileInputs.cache
+/home/san/Projects/Sample/Practise/obj/x86/Debug/Practise.exe
+/home/san/Projects/Sample/Practise/obj/x86/Debug/Practise.pdb
