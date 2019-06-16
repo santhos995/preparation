@@ -1,0 +1,5 @@
+/home/san/Projects/Sample/preparation/YieldPractice/bin/Debug/YieldPractice.exe
+/home/san/Projects/Sample/preparation/YieldPractice/bin/Debug/YieldPractice.pdb
+/home/san/Projects/Sample/preparation/YieldPractice/obj/x86/Debug/YieldPractice.csproj.CoreCompileInputs.cache
+/home/san/Projects/Sample/preparation/YieldPractice/obj/x86/Debug/YieldPractice.exe
+/home/san/Projects/Sample/preparation/YieldPractice/obj/x86/Debug/YieldPractice.pdb
