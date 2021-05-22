@@ -8,36 +8,23 @@ namespace LongestSubStrWithOutRepeatingChr
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            LengthOfLongestSubstring("tmmzuxt");
         }
-        public int LengthOfLongestSubstring(string s)
+        static public int LengthOfLongestSubstring(string s)
         {
-            if (string.IsNullOrWhiteSpace(s))
+            if (s.Length == 0)
                 return 0;
 
-            int count = 0, windowEnd = 0, max = 0;
-            Dictionary<char, int> map = new Dictionary<char, int>();
-            for (int windowStart = 0; windowStart < s.Length; windowStart++)
+            int windowStart = 0, max = 0;
+            Dictionary<char, int> map = new Dictionary<char, int>(); //map with character index
+            for (int windowEnd = 0; windowEnd < s.Length; windowEnd++)
             {
-                if (!map.ContainsKey(s.ElementAt(windowStart)))
+                if(map.ContainsKey(s.ElementAt(windowEnd)))
                 {
-                    map.Add(s.ElementAt(windowStart), 1);
-                    count++;
-                    max = Math.Max(max, count);
+                    windowStart = Math.Max(windowStart, map[s.ElementAt(windowEnd)] + 1);//max comparison is because we should not move the windowstart to backward.
                 }
-                else
-                {
-                    while (windowEnd <= windowStart && s.ElementAt(windowStart) != s.ElementAt(windowEnd)) // moving the sliding window to the point where it find the non-repeating char
-                    {
-                        count--;
-                        map.Remove(s.ElementAt(windowEnd));
-                        windowEnd++;
-                    }
-                    if(windowEnd != windowStart)
-                    {
-                        windowEnd++;
-                    }
-                }
+                map[s.ElementAt(windowEnd)] = windowEnd;
+                max = Math.Max(max, (windowEnd - windowStart) + 1);
             }
             return max;
         }
