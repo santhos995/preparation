@@ -1,0 +1,16 @@
+C:\Users\Santhosh\Documents\github projects\preparation\LC.PeakElement\bin\Debug\net5.0\LC.PeakElement.exe
+C:\Users\Santhosh\Documents\github projects\preparation\LC.PeakElement\bin\Debug\net5.0\LC.PeakElement.deps.json
+C:\Users\Santhosh\Documents\github projects\preparation\LC.PeakElement\bin\Debug\net5.0\LC.PeakElement.runtimeconfig.json
+C:\Users\Santhosh\Documents\github projects\preparation\LC.PeakElement\bin\Debug\net5.0\LC.PeakElement.runtimeconfig.dev.json
+C:\Users\Santhosh\Documents\github projects\preparation\LC.PeakElement\bin\Debug\net5.0\LC.PeakElement.dll
+C:\Users\Santhosh\Documents\github projects\preparation\LC.PeakElement\bin\Debug\net5.0\ref\LC.PeakElement.dll
+C:\Users\Santhosh\Documents\github projects\preparation\LC.PeakElement\bin\Debug\net5.0\LC.PeakElement.pdb
+C:\Users\Santhosh\Documents\github projects\preparation\LC.PeakElement\obj\Debug\net5.0\LC.PeakElement.csprojAssemblyReference.cache
+C:\Users\Santhosh\Documents\github projects\preparation\LC.PeakElement\obj\Debug\net5.0\LC.PeakElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santhosh\Documents\github projects\preparation\LC.PeakElement\obj\Debug\net5.0\LC.PeakElement.AssemblyInfoInputs.cache
+C:\Users\Santhosh\Documents\github projects\preparation\LC.PeakElement\obj\Debug\net5.0\LC.PeakElement.AssemblyInfo.cs
+C:\Users\Santhosh\Documents\github projects\preparation\LC.PeakElement\obj\Debug\net5.0\LC.PeakElement.csproj.CoreCompileInputs.cache
+C:\Users\Santhosh\Documents\github projects\preparation\LC.PeakElement\obj\Debug\net5.0\LC.PeakElement.dll
+C:\Users\Santhosh\Documents\github projects\preparation\LC.PeakElement\obj\Debug\net5.0\ref\LC.PeakElement.dll
+C:\Users\Santhosh\Documents\github projects\preparation\LC.PeakElement\obj\Debug\net5.0\LC.PeakElement.pdb
+C:\Users\Santhosh\Documents\github projects\preparation\LC.PeakElement\obj\Debug\net5.0\LC.PeakElement.genruntimeconfig.cache

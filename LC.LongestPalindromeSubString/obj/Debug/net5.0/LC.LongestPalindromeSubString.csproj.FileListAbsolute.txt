@@ -1,0 +1,16 @@
+C:\Users\Santhosh\Documents\github projects\preparation\LC.LongestPalindromeSubString\bin\Debug\net5.0\LC.LongestPalindromeSubString.exe
+C:\Users\Santhosh\Documents\github projects\preparation\LC.LongestPalindromeSubString\bin\Debug\net5.0\LC.LongestPalindromeSubString.deps.json
+C:\Users\Santhosh\Documents\github projects\preparation\LC.LongestPalindromeSubString\bin\Debug\net5.0\LC.LongestPalindromeSubString.runtimeconfig.json
+C:\Users\Santhosh\Documents\github projects\preparation\LC.LongestPalindromeSubString\bin\Debug\net5.0\LC.LongestPalindromeSubString.runtimeconfig.dev.json
+C:\Users\Santhosh\Documents\github projects\preparation\LC.LongestPalindromeSubString\bin\Debug\net5.0\LC.LongestPalindromeSubString.dll
+C:\Users\Santhosh\Documents\github projects\preparation\LC.LongestPalindromeSubString\bin\Debug\net5.0\ref\LC.LongestPalindromeSubString.dll
+C:\Users\Santhosh\Documents\github projects\preparation\LC.LongestPalindromeSubString\bin\Debug\net5.0\LC.LongestPalindromeSubString.pdb
+C:\Users\Santhosh\Documents\github projects\preparation\LC.LongestPalindromeSubString\obj\Debug\net5.0\LC.LongestPalindromeSubString.csprojAssemblyReference.cache
+C:\Users\Santhosh\Documents\github projects\preparation\LC.LongestPalindromeSubString\obj\Debug\net5.0\LC.LongestPalindromeSubString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santhosh\Documents\github projects\preparation\LC.LongestPalindromeSubString\obj\Debug\net5.0\LC.LongestPalindromeSubString.AssemblyInfoInputs.cache
+C:\Users\Santhosh\Documents\github projects\preparation\LC.LongestPalindromeSubString\obj\Debug\net5.0\LC.LongestPalindromeSubString.AssemblyInfo.cs
+C:\Users\Santhosh\Documents\github projects\preparation\LC.LongestPalindromeSubString\obj\Debug\net5.0\LC.LongestPalindromeSubString.csproj.CoreCompileInputs.cache
+C:\Users\Santhosh\Documents\github projects\preparation\LC.LongestPalindromeSubString\obj\Debug\net5.0\LC.LongestPalindromeSubString.dll
+C:\Users\Santhosh\Documents\github projects\preparation\LC.LongestPalindromeSubString\obj\Debug\net5.0\ref\LC.LongestPalindromeSubString.dll
+C:\Users\Santhosh\Documents\github projects\preparation\LC.LongestPalindromeSubString\obj\Debug\net5.0\LC.LongestPalindromeSubString.pdb
+C:\Users\Santhosh\Documents\github projects\preparation\LC.LongestPalindromeSubString\obj\Debug\net5.0\LC.LongestPalindromeSubString.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Santhosh\Documents\github projects\preparation\ValidNumber\bin\Debug\net5.0\ValidNumber.exe
+C:\Users\Santhosh\Documents\github projects\preparation\ValidNumber\bin\Debug\net5.0\ValidNumber.deps.json
+C:\Users\Santhosh\Documents\github projects\preparation\ValidNumber\bin\Debug\net5.0\ValidNumber.runtimeconfig.json
+C:\Users\Santhosh\Documents\github projects\preparation\ValidNumber\bin\Debug\net5.0\ValidNumber.runtimeconfig.dev.json
+C:\Users\Santhosh\Documents\github projects\preparation\ValidNumber\bin\Debug\net5.0\ValidNumber.dll
+C:\Users\Santhosh\Documents\github projects\preparation\ValidNumber\bin\Debug\net5.0\ref\ValidNumber.dll
+C:\Users\Santhosh\Documents\github projects\preparation\ValidNumber\bin\Debug\net5.0\ValidNumber.pdb
+C:\Users\Santhosh\Documents\github projects\preparation\ValidNumber\obj\Debug\net5.0\ValidNumber.csprojAssemblyReference.cache
+C:\Users\Santhosh\Documents\github projects\preparation\ValidNumber\obj\Debug\net5.0\ValidNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santhosh\Documents\github projects\preparation\ValidNumber\obj\Debug\net5.0\ValidNumber.AssemblyInfoInputs.cache
+C:\Users\Santhosh\Documents\github projects\preparation\ValidNumber\obj\Debug\net5.0\ValidNumber.AssemblyInfo.cs
+C:\Users\Santhosh\Documents\github projects\preparation\ValidNumber\obj\Debug\net5.0\ValidNumber.csproj.CoreCompileInputs.cache
+C:\Users\Santhosh\Documents\github projects\preparation\ValidNumber\obj\Debug\net5.0\ValidNumber.dll
+C:\Users\Santhosh\Documents\github projects\preparation\ValidNumber\obj\Debug\net5.0\ref\ValidNumber.dll
+C:\Users\Santhosh\Documents\github projects\preparation\ValidNumber\obj\Debug\net5.0\ValidNumber.pdb
+C:\Users\Santhosh\Documents\github projects\preparation\ValidNumber\obj\Debug\net5.0\ValidNumber.genruntimeconfig.cache

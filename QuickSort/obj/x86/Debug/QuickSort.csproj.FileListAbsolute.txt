@@ -3,3 +3,5 @@
 /home/san/Projects/Sample/QuickSort/obj/x86/Debug/QuickSort.csproj.CoreCompileInputs.cache
 /home/san/Projects/Sample/QuickSort/obj/x86/Debug/QuickSort.exe
 /home/san/Projects/Sample/QuickSort/obj/x86/Debug/QuickSort.pdb
+C:\Users\Santhosh\Documents\github projects\preparation\QuickSort\obj\x86\Debug\QuickSort.exe
+C:\Users\Santhosh\Documents\github projects\preparation\QuickSort\obj\x86\Debug\QuickSort.pdb

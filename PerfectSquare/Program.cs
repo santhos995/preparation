@@ -12,7 +12,12 @@
                 return n;
             if (n < 13)
             {
-                                
+                if ((n / 4) == 0)
+                    return n / 4;
+                else
+                {
+                    
+                }
             }
             else
             {

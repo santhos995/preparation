@@ -10,21 +10,21 @@ namespace LongestSubStrWithOutRepeatingChr
         {
             LengthOfLongestSubstring("tmmzuxt");
         }
-        static public int LengthOfLongestSubstring(string s)
+        public static int LengthOfLongestSubstring(string s)
         {
             if (s.Length == 0)
                 return 0;
 
-            int windowStart = 0, max = 0;
-            Dictionary<char, int> map = new Dictionary<char, int>(); //map with character index
-            for (int windowEnd = 0; windowEnd < s.Length; windowEnd++)
+            int wStart = 0, max = 0;
+            Dictionary<char, int> map = new Dictionary<char, int>();
+            for (int wEnd = 0; wEnd < s.Length; wEnd++)
             {
-                if(map.ContainsKey(s.ElementAt(windowEnd)))
+                if (map.ContainsKey(s[wEnd]))
                 {
-                    windowStart = Math.Max(windowStart, map[s.ElementAt(windowEnd)] + 1);//max comparison is because we should not move the windowstart to backward.
+                    wStart = Math.Max(wStart, map[s[wEnd]] + 1);//here we are identifying the right most index, windowStart can't go back/left.. 
                 }
-                map[s.ElementAt(windowEnd)] = windowEnd;
-                max = Math.Max(max, (windowEnd - windowStart) + 1);
+                max = Math.Max(max, wEnd - wStart + 1);
+                map[s[wEnd]] = wEnd;
             }
             return max;
         }
