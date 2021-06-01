@@ -21,24 +21,38 @@ namespace LC.LongestPalindromeSubString
 
         public class Solution
         {
-            int maxLen = 0, k = 0;
+            int st = 0, len = 0;
             public string LongestPalindrome(string s)
             {
-               
+                if (s.Length < 2)
+                    return s;
+
                 for (int i = 0; i < s.Length; i++)
                 {
-                    // there are two possibilities to find palindrome from current position, only if ith and (i+1)th elements are same
-                    //Possibility one -  mid = i, possibility two - mid = i, i+1  
-                    // consider abba, here if i = 1 as well as i = 1,2 are two possibilities
-                    
+                    LPHelper(s, i, i);
+                    if (i + 1 < s.Length && s[i] == s[i + 1])
+                        LPHelper(s, i, i + 1);
                 }
-                return string.Empty;
+                return s.Substring(st, len);
             }
-
-            private void chkPalindromeAndStoreMaxLen(string s, int left, int right)
+            void LPHelper(string s, int l, int r)
             {
+                while (l >= 0 && r < s.Length && s[l] == s[r])
+                {
+                    l--;
+                    r++;
+                }
+                //our valid stringrange is just l+1 and r-1
 
+                if ((r - l - 1) > len)
+                {
+                    //Console.WriteLine($"{st} to {l+1}, {len} to {r-l-1}");
+                    st = l + 1;
+                    len = r - l - 1;
+                }
             }
         }
+
+
     }
 }
