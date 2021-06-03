@@ -1,0 +1,11 @@
+C:\Users\Santhosh\Documents\github projects\preparation\ConstructBinaryTree\obj\Debug\net5.0\ConstructBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santhosh\Documents\github projects\preparation\ConstructBinaryTree\obj\Debug\net5.0\ConstructBinaryTree.AssemblyInfoInputs.cache
+C:\Users\Santhosh\Documents\github projects\preparation\ConstructBinaryTree\obj\Debug\net5.0\ConstructBinaryTree.AssemblyInfo.cs
+C:\Users\Santhosh\Documents\github projects\preparation\ConstructBinaryTree\obj\Debug\net5.0\ConstructBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Santhosh\Documents\github projects\preparation\ConstructBinaryTree\bin\Debug\net5.0\ConstructBinaryTree.deps.json
+C:\Users\Santhosh\Documents\github projects\preparation\ConstructBinaryTree\bin\Debug\net5.0\ConstructBinaryTree.dll
+C:\Users\Santhosh\Documents\github projects\preparation\ConstructBinaryTree\bin\Debug\net5.0\ref\ConstructBinaryTree.dll
+C:\Users\Santhosh\Documents\github projects\preparation\ConstructBinaryTree\bin\Debug\net5.0\ConstructBinaryTree.pdb
+C:\Users\Santhosh\Documents\github projects\preparation\ConstructBinaryTree\obj\Debug\net5.0\ConstructBinaryTree.dll
+C:\Users\Santhosh\Documents\github projects\preparation\ConstructBinaryTree\obj\Debug\net5.0\ref\ConstructBinaryTree.dll
+C:\Users\Santhosh\Documents\github projects\preparation\ConstructBinaryTree\obj\Debug\net5.0\ConstructBinaryTree.pdb
